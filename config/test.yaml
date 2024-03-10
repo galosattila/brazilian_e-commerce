@@ -1,0 +1,3 @@
+input_path: "/home/ati/Downloads/brazilian_e-commerce_datasets"
+output_path: "/home/ati/Downloads/brazilian_e-commerce_output"
+partition_cols: ["product_category_name"]
