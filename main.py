@@ -17,7 +17,6 @@ def main():
     with open(f'./config/{env}.yaml', 'r') as file:
         config_dict = yaml.safe_load(file)
 
-    
     input_path = config_dict["input_path"]
     output_path = config_dict["output_path"]
     partition_cols = config_dict["partition_cols"]
