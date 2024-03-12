@@ -10,12 +10,12 @@ This project implements an Extract, Transform, Load (ETL) pipeline to process e-
 
 # Environment setup
 
-1. Python Version
+1. Python Version:
     This project is tested with Python 3.12 (Specify the compatible Python version). Ensure you have a compatible version installed. You can check your Python version using: `python --version`
-2. Create a Virtual Environment (Recommended)
+2. Create a Virtual Environment (Recommended):
     It's recommended to use a virtual environment to isolate project dependencies. You can create a virtual environment using: `python -m venv .venv`
     This will create a virtual environment named .venv in your current directory. Activate it using the following command: `source .venv/bin/activate`
-3. Install dependencies
+3. Install dependencies:
     Activate your virtual environment (if created). Then, install the required libraries using pip: `pip install -r requirements.txt`
 
 
